@@ -1,5 +1,9 @@
+<style>
 body {
-    margin: 60px auto;
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f11ae67363005.5b36a6088d014.jpg");
+}
+
+margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
